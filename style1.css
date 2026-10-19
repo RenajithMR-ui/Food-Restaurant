@@ -118,11 +118,6 @@ h1 {
     left: 50%;
 }
  */
-.head-tag {
-    align-items: center;
-    font-size:48px;
-
-}
 
 
 .home h2 {
@@ -163,9 +158,6 @@ h1 {
 /* -------------------------
    SHOPPING
 ------------------------- */
-.shopping h1{
-    text-align: center;
-}
 .food-container {
 
     display: grid;
@@ -312,9 +304,6 @@ h1 {
 /* -------------------------
    ORDERS
 ------------------------- */
-.orders h1{
-    text-align: center;
-}
 .order-card {
 
     background: white;
@@ -385,9 +374,6 @@ h1 {
 /* -------------------------
    PROFILE
 ------------------------- */
-.profile h1{
-    text-align: center;
-}
 .profile-card {
 
     max-width: 400px;
@@ -530,7 +516,7 @@ h1 {
 
     .food-container {
 
-        grid-template-columns: 1fr;
+        grid-template-columns: 2fr;
 
     }
 
