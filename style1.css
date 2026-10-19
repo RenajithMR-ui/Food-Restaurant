@@ -16,6 +16,7 @@ body {
     font-family: Arial, sans-serif;
 
     background: #f5f5f5;
+    width: 100%;
 
     color: #222;
 
@@ -85,6 +86,7 @@ h1 {
 
 }
 
+
 /*
 .restaurant-logo {
 
@@ -106,13 +108,20 @@ h1 {
 
 }
 
-*/
+
 .home h1 {
 
     font-size: 48px;
     margin-top: 20px;
+    margin-left: 500px;
     align-items: center;
     left: 50%;
+}
+ */
+.head-tag {
+    align-items: center;
+    font-size:48px;
+
 }
 
 
